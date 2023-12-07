@@ -1,2 +1,2 @@
 # Py4E
-Codes and work from Py4E Coursera Courses
+Assignments codes from Py4E Coursera Courses
